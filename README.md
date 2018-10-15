@@ -19,7 +19,7 @@ Then, add this import line at the beginning of your Python file :
 
 `from pcu_json import json_parser`
 
-You can now use pcu_nlp's functions, for example :
+You can now use pcu_json's functions, for example :
 
 `json_parser.JSONParser(path/to/json/file)`
 
