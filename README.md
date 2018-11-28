@@ -3,11 +3,13 @@
 JSON parser component for PCU project.
 From the path of a json file, get its textual content.
 
+![json](https://framapic.org/vB3nKMzBJTFN/vJUbiAIJ4oNs.png)
+
+----
+
 [Check PCU project][pcu].
 
 [pcu]: https://github.com/zevio/pcu_core
-
-----
 
 ## Usage in another project
 
